@@ -2,7 +2,7 @@
 [Spotify Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjllNjA0ZDUtYzAwZC00MzBjLWE0MWQtZDM1MzFlYTFhNmE2IiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
 
 ## Summary
-This project contains a Microsoft Power BI dashboard presenting a case study using a Spotify music database available at [Kaggle] (https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db).
+This project contains a Microsoft Power BI dashboard presenting a case study using a Spotify music database available at [Kaggle](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db).
 
 ## Objective
 Creation of a dashboard to analyze popularity of musics available at Spotify.
