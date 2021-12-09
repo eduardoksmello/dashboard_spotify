@@ -16,4 +16,4 @@ Creation of a dashboard to analyze popularity of musics available at Spotify.
 * Layout: Adobe Photoshop
 
 ## Preview
-![imagem](https://github.com/eduardoksmello/dashboard_petshop_alura/blob/main/dashboard_alurapets.PNG)
+![imagem](https://github.com/eduardoksmello/dashboard_spotify/blob/main/eksm_spotify_dashboad.PNG)
